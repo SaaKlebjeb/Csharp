@@ -1,0 +1,7 @@
+D:\LearnC#\Inheritance02\bin\Debug\Inheritance02.exe.config
+D:\LearnC#\Inheritance02\bin\Debug\Inheritance02.exe
+D:\LearnC#\Inheritance02\bin\Debug\Inheritance02.pdb
+D:\LearnC#\Inheritance02\obj\Debug\Inheritance02.csproj.AssemblyReference.cache
+D:\LearnC#\Inheritance02\obj\Debug\Inheritance02.csproj.CoreCompileInputs.cache
+D:\LearnC#\Inheritance02\obj\Debug\Inheritance02.exe
+D:\LearnC#\Inheritance02\obj\Debug\Inheritance02.pdb

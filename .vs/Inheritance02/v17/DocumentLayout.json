@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearnC#\\Inheritance02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|d:\\learnc#\\inheritance02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|D:\\LearnC#\\Inheritance02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|D:\\LearnC#\\Inheritance02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|D:\\LearnC#\\Inheritance02\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|D:\\LearnC#\\Inheritance02\\cleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:cleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|D:\\LearnC#\\Inheritance02\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465532D6-D117-45FB-B862-E998C7571F3E}|Inheritance02.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:51:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:35:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cleaner.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Cleaner.cs",
+              "RelativeDocumentMoniker": "Cleaner.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Cleaner.cs",
+              "RelativeToolTip": "Cleaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:34:31.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:32:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:30:05.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearnC#\\Inheritance02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LearnC#\\Inheritance02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwLoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:48:46.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
